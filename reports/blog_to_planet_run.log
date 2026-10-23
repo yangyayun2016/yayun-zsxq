@@ -1,0 +1,164 @@
+[1/75] CREATE blog/amazon-ads/2026-08-23-45.md
+  OK topic_id=55521548884412814
+[2/75] CREATE blog/amazon-ads/2026-08-23-46.md
+  FAIL create: error: create_topic: MCP transport: Post "https://mcp.zsxq.com/topic/mcp": EOF
+[3/75] CREATE blog/amazon-ads/2026-08-23-47.md
+  OK topic_id=45548521112288458
+[4/75] CREATE blog/amazon-ads/2026-08-23-49.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[5/75] CREATE blog/amazon-ads/2026-08-23-51.md
+  OK topic_id=82258241114488882
+[6/75] CREATE blog/amazon-ads/2026-08-23-sop.md
+  OK topic_id=82258241114488812
+[7/75] CREATE blog/amazon-ads/2026-08-24-52.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[8/75] CREATE blog/amazon-ads/2026-08-25-74.md
+  OK topic_id=82258241114488222
+[9/75] CREATE blog/amazon-ads/2026-08-28-76.md
+  OK topic_id=14425418881155412
+[10/75] CREATE blog/amazon-ads/2026-08-28-xmind.md
+  OK topic_id=14425418881154422
+[11/75] CREATE blog/amazon-ads/2026-08-31-84.md
+  OK topic_id=22258241114482251
+[12/75] CREATE blog/amazon-ads/2026-08-31-cpc.md
+  OK topic_id=45548521112285558
+[13/75] CREATE blog/amazon-ads/2026-09-01-86.md
+  OK topic_id=14425418881154412
+[14/75] CREATE blog/amazon-ads/2026-09-04-96.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[15/75] CREATE blog/amazon-ads/2026-09-16-ai-targeting-with-ai.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[16/75] CREATE blog/amazon-ai/2026-09-02-claude-codex-ip.md
+  OK topic_id=22258241114482481
+[17/75] CREATE blog/amazon-ai/2026-09-17-sp-api-2026.md
+  OK topic_id=55521548884415444
+[18/75] CREATE blog/amazon-ai/2026-10-15-personal-agent.md
+  OK topic_id=82258241114482412
+[19/75] CREATE blog/amazon-sc/2026-08-20-a9.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[20/75] CREATE blog/amazon-sc/2026-08-20-hello-32.md
+  OK topic_id=82258241114482122
+[21/75] CREATE blog/amazon-sc/2026-08-20-hello.md
+  OK topic_id=22258241114482121
+[22/75] CREATE blog/amazon-sc/2026-08-21-validate-product-idea.md
+  OK topic_id=55521548884414224
+[23/75] CREATE blog/amazon-sc/2026-08-23-43.md
+  OK topic_id=82258241114484542
+[24/75] CREATE blog/amazon-sc/2026-08-23-cdq-v3.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[25/75] CREATE blog/amazon-sc/2026-08-23-hello-ecpm.md
+  OK topic_id=22258241114484251
+[26/75] CREATE blog/amazon-sc/2026-08-24-53.md
+  OK topic_id=82258241114484242
+[27/75] CREATE blog/amazon-sc/2026-08-24-sif.md
+  OK topic_id=82258241114418422
+[28/75] CREATE blog/amazon-sc/2026-08-24-sop.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[29/75] CREATE blog/amazon-sc/2026-08-25-59.md
+  OK topic_id=45548521112218188
+[30/75] CREATE blog/amazon-sc/2026-08-25-60.md
+  OK topic_id=82258241114418122
+[31/75] CREATE blog/amazon-sc/2026-08-25-62.md
+  OK topic_id=82258241114412552
+[32/75] CREATE blog/amazon-sc/2026-08-25-63.md
+  OK topic_id=22258241114412521
+[33/75] CREATE blog/amazon-sc/2026-08-25-68.md
+  OK topic_id=82258241114412542
+[34/75] CREATE blog/amazon-sc/2026-08-25-a9.md
+  OK topic_id=82258241114412852
+[35/75] CREATE blog/amazon-sc/2026-08-25-cosmo.md
+  OK topic_id=45548521112215888
+[36/75] CREATE blog/amazon-sc/2026-08-25-frequently-returned-item.md
+  OK topic_id=55521548884485114
+[37/75] CREATE blog/amazon-sc/2026-08-25-it.md
+  OK topic_id=82258241114412842
+[38/75] CREATE blog/amazon-sc/2026-08-25-sop-docx-fx.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[39/75] CREATE blog/amazon-sc/2026-08-25-sop-ppt.md
+  OK topic_id=55521548884485554
+[40/75] CREATE blog/amazon-sc/2026-08-28-hello.md
+  OK topic_id=82258241114412242
+[41/75] CREATE blog/amazon-sc/2026-09-01-8-12-9-1.md
+  OK topic_id=55521548884485424
+[42/75] CREATE blog/amazon-sc/2026-09-01-87.md
+  OK topic_id=82258241114412442
+[43/75] CREATE blog/amazon-sc/2026-09-01-90.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[44/75] CREATE blog/amazon-sc/2026-09-02-93.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[45/75] CREATE blog/amazon-sc/2026-10-16-nwd-nwd.md
+  OK topic_id=55521548884485814
+[46/75] CREATE blog/amazon-sc/2026-10-19-contextual-landing-page.md
+  OK topic_id=55521548884485854
+[47/75] CREATE blog/amazon-selection/2026-09-02-skill.md
+  OK topic_id=22258241114412121
+[48/75] CREATE blog/amazon-selection/2026-09-05-skill-m1-m11.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[49/75] CREATE blog/amazon-selection/2026-09-18-106.md
+  OK topic_id=45548521112212158
+[50/75] CREATE blog/amazon-selection/2026-09-18-107.md
+  OK topic_id=55521548884484844
+[51/75] CREATE blog/amazon-selection/2026-09-18-overview-mobile-gaming-8f8e14b1.md
+  OK topic_id=82258241114411552
+[52/75] CREATE blog/amazon-vc/2026-08-19-faq-vc-btr-asin-vc-cost.md
+  OK topic_id=45548521112211488
+[53/75] CREATE blog/amazon-vc/2026-08-19-faq-vc-cm.md
+  FAIL create: error: create_topic: MCP transport: Post "https://mcp.zsxq.com/topic/mcp": EOF
+[54/75] CREATE blog/amazon-vc/2026-08-19-faq-vc-funding-funding.md
+  OK topic_id=22258241114411511
+[55/75] CREATE blog/amazon-vc/2026-08-20-faq-po.md
+  OK topic_id=55521548884488114
+[56/75] CREATE blog/amazon-vc/2026-08-20-faq-vc-vc-vc-po-20-vc-bd.md
+  OK topic_id=82258241114411822
+[57/75] CREATE blog/amazon-vc/2026-08-25-vc-net-ppm.md
+  OK topic_id=14425418881188512
+[58/75] CREATE blog/amazon-vc/2026-08-28-bd-vc-bd.md
+  OK topic_id=14425418881188452
+[59/75] CREATE blog/amazon-vc/2026-08-28-vc-79.md
+  OK topic_id=14425418881188482
+[60/75] CREATE blog/amazon-vc/2026-08-28-vc-msrp-vc-offer-vc.md
+  OK topic_id=82258241114411482
+[61/75] CREATE blog/amazon-vc/2026-08-28-vc.md
+  OK topic_id=14425418881188142
+[62/75] CREATE blog/amazon-vc/2026-09-01-vc-vm-cm-ppm.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[63/75] CREATE blog/amazon-vc/2026-09-01-vc.md
+  OK topic_id=55521548884488484
+[64/75] CREATE blog/amazon-vc/2026-10-15-asin-asin.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[65/75] CREATE blog/amazon-vc/2026-10-18-amazon-curated-147-add-or-change-metrics-and-dimensions.md
+  retry truncated 20k
+  FAIL create: error: create_topic: MCP tool error: {"code":100217,"info":"文本内容超长"}
+[66/75] CREATE blog/amazon-vc/2026-10-18-vc-amazon-curated.md
+  OK topic_id=45548521112211128
+[67/75] CREATE blog/amazon-vc/2026-10-21-vc-agreements.md
+  OK topic_id=14425418881822822
+[68/75] CREATE blog/feedback/2026-08-18-8.md
+  OK topic_id=45548521112144188
+[69/75] CREATE blog/general/2026-08-18-5.md
+  OK topic_id=55521548884822844
+[70/75] SKIP blog/general/2026-08-18-7.md
+[71/75] CREATE blog/general/2026-08-23-50.md
+  OK topic_id=55521548884822884
+[72/75] CREATE blog/general/2026-08-25-vine-vine.md
+  FAIL create: error: create_topic: MCP transport: Post "https://mcp.zsxq.com/topic/mcp": EOF
+[73/75] CREATE blog/general/2026-08-31-amazon-asin-skill.md
+  OK topic_id=82258241114158512
+[74/75] CREATE blog/general/2026-09-01-scenario-modeling.md
+  OK topic_id=82258241114158852
+[75/75] CREATE blog/general/2026-09-18-105.md
+  OK topic_id=55521548884821154
+DONE {"total": 75, "created": 57, "edited": 0, "skipped": 1, "failed": 17}

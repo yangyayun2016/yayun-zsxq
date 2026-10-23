@@ -745,8 +745,776 @@
       "synced_at": "2026-10-23T04:17:29Z"
     }
   ],
-  "blog_to_planet": [],
-  "notes": "天机跨境 group_id=51115818158554 export complete 2026-10-23T04:17:29Z; topics=62",
+  "blog_to_planet": [
+    {
+      "blog_path": "blog/general/2026-08-18-7.md",
+      "topic_id": "14425418881152512",
+      "content_hash": "d6fca8f0db77c7bd6d534f5f9575635f57ba19c0353b594fc6ca2aa86645824e",
+      "title": "关于你，有哪些有趣的小事？谢谢大家的支持！谢谢",
+      "original_url": "https://tianjikuajing.com/t/topic/7",
+      "published_at": "2026-10-23T12:22:56.850163+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-23-45.md",
+      "topic_id": "55521548884412814",
+      "content_hash": "be4e0ef41414427e6907dea51de2324e97ab12a516c32c0382ec563f88de1273",
+      "title": "亚马逊广告打法 广告捡漏打法①",
+      "original_url": "https://tianjikuajing.com/t/topic/45",
+      "published_at": "2026-10-23T12:22:58.756356+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-23-47.md",
+      "topic_id": "45548521112288458",
+      "content_hash": "a727bfb523ff4d95ad46dac435ff984266b9a5a0346e93842fc8704ed2bb719a",
+      "title": "亚马逊广告打法 广告捡漏打法②",
+      "original_url": "https://tianjikuajing.com/t/topic/47",
+      "published_at": "2026-10-23T12:23:17.605695+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-23-51.md",
+      "topic_id": "82258241114488882",
+      "content_hash": "4cb0b967abf38ac237ab4f5e1c3050800e86b7422c8b2715ae7ff77f66325fcb",
+      "title": "不同类型的产品对应不同的广告打法",
+      "original_url": "https://tianjikuajing.com/t/topic/51",
+      "published_at": "2026-10-23T12:23:28.903697+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-23-sop.md",
+      "topic_id": "82258241114488812",
+      "content_hash": "d916e1b24f253bfb031d24ecf9ab9a0d0b7efbfff54143b5bb37f0f690208fed",
+      "title": "亚马逊广告打法 海外广告sop",
+      "original_url": "https://tianjikuajing.com/t/sop/48",
+      "published_at": "2026-10-23T12:23:32.354461+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-25-74.md",
+      "topic_id": "82258241114488222",
+      "content_hash": "cfe73eb8d2df0fe98c9b76152cc5ccf8af1641848b54b7d0ce3f95857b699137",
+      "title": "亚马逊广告 亚马逊全渠道广告，最少200美金，在展示广告，视频广告和搜索广告中出现",
+      "original_url": "https://tianjikuajing.com/t/topic/74",
+      "published_at": "2026-10-23T12:23:41.565747+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-28-76.md",
+      "topic_id": "14425418881155412",
+      "content_hash": "073dc6be4bb871bffaf6c4874e4787d07fcbc512fbc09577c36ac0d013473dd6",
+      "title": "广告表现指标&标题不同广告活动层级关注的不同指标",
+      "original_url": "https://tianjikuajing.com/t/topic/76",
+      "published_at": "2026-10-23T12:23:44.670662+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-28-xmind.md",
+      "topic_id": "14425418881154422",
+      "content_hash": "d77625298c8e0ef0be82bf1f0fe11c7ee1b5276ea9fa062a70258fe73ab3e92f",
+      "title": "亚马逊优化广告思路框架+心得重要资料 思维导图 xmind",
+      "original_url": "https://tianjikuajing.com/t/xmind/77",
+      "published_at": "2026-10-23T12:23:48.425952+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-31-84.md",
+      "topic_id": "22258241114482251",
+      "content_hash": "a14598de18de2f61b0bfdaeb5c7bada1f157ffbc8c005c5a2ed3a66566da52c3",
+      "title": "亚马逊广告中心-健康诊断报告 详细设计思路",
+      "original_url": "https://tianjikuajing.com/t/topic/84",
+      "published_at": "2026-10-23T12:23:51.773476+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-31-cpc.md",
+      "topic_id": "45548521112285558",
+      "content_hash": "9b3e35931d9e9e42962c8820b26879b1ba4fb24b28ae74becb1dacd8f4204901",
+      "title": "回答粉丝朋友的一个问题：如果是亚马逊二价规则，我的底层cpc出价是否会掉出首页竞争，无论广告位竞价的百分比",
+      "original_url": "https://tianjikuajing.com/t/cpc/83",
+      "published_at": "2026-10-23T12:23:54.744583+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-09-01-86.md",
+      "topic_id": "14425418881154412",
+      "content_hash": "4ec2f0fc9babe5149d424b452066b380951c5d19e80bcd3cfec91086cb6efdec",
+      "title": "亚马逊广告，广告思路分析①快速拉排名",
+      "original_url": "https://tianjikuajing.com/t/topic/86",
+      "published_at": "2026-10-23T12:23:59.087619+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ai/2026-09-02-claude-codex-ip.md",
+      "topic_id": "22258241114482481",
+      "content_hash": "3ad46b67d3b68bef411e42b22e00cb07b8e5e4f05435414733ef6dd70f4f48aa",
+      "title": "如何给自己的Claude或者codex工具一个纯净的国外IP环境",
+      "original_url": "https://tianjikuajing.com/t/claude-codex-ip/94",
+      "published_at": "2026-10-23T12:24:14.399495+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ai/2026-09-17-sp-api-2026.md",
+      "topic_id": "55521548884415444",
+      "content_hash": "448f041193fc253aac18a6d544e2442bde0b00cb4f327b8f4af94fdd02aac8eb",
+      "title": "亚马逊 sp-api 中国开发者大会 2026 会议资料-截图",
+      "original_url": "https://tianjikuajing.com/t/sp-api-2026/102",
+      "published_at": "2026-10-23T12:24:19.449365+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ai/2026-10-15-personal-agent.md",
+      "topic_id": "82258241114482412",
+      "content_hash": "feccdada47bdccc4feefda1653b3ef73d73e33c308127de759236ca816e8b8bc",
+      "title": "亲测：我最近一直有在测试几个最新的个人智能体，我来谈谈这几个personal agent，说说我的看法",
+      "original_url": "https://tianjikuajing.com/t/personal-agent/110",
+      "published_at": "2026-10-23T12:24:23.195520+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-20-hello-32.md",
+      "topic_id": "82258241114482122",
+      "content_hash": "05d6fed6faa8307405aae13cb79c993707ac745ed82f9fe7836eee6461074826",
+      "title": "Hello!第三次发帖！亚马逊关键词广告市场曝光量的计算方法",
+      "original_url": "https://tianjikuajing.com/t/hello/32",
+      "published_at": "2026-10-23T12:24:32.136796+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-20-hello.md",
+      "topic_id": "22258241114482121",
+      "content_hash": "760c972671474173ddbc6f53b3e6e483f493de325e07a615b38569bec5aac778",
+      "title": "Hello!第二次发帖！亚马逊账号关联（案例分析+详细介绍）+ 店铺体检报告",
+      "original_url": "https://tianjikuajing.com/t/hello/27",
+      "published_at": "2026-10-23T12:24:36.244035+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-21-validate-product-idea.md",
+      "topic_id": "55521548884414224",
+      "content_hash": "a72fffb43322a3ccf923f0c90837169fb7655a467dcf36672ebd6f216ddf84f4",
+      "title": "亚马逊选品 -商机探测器- 亚马逊官方推出了一个新功能——选品模拟器 (Validate Product Idea)。",
+      "original_url": "https://tianjikuajing.com/t/validate-product-idea/40",
+      "published_at": "2026-10-23T12:24:41.531744+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-23-43.md",
+      "topic_id": "82258241114484542",
+      "content_hash": "81ad66348471a80ff9b3f3c1aff1e84b56c010f0ff73d0124d0f0ea121cc9e33",
+      "title": "亚马逊标题新规75字符政策解析",
+      "original_url": "https://tianjikuajing.com/t/topic/43",
+      "published_at": "2026-10-23T12:24:45.713412+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-23-hello-ecpm.md",
+      "topic_id": "22258241114484251",
+      "content_hash": "d1e0961adae72ba15f150d4436836f4a7aee088d266b1457392afc1f395ae811",
+      "title": "Hello！第六次发帖！如何提高亚马逊的自然订单，熟悉亚马逊eCPM（提高自然关键词在自然位置，和自然流量)",
+      "original_url": "https://tianjikuajing.com/t/hello-ecpm/42",
+      "published_at": "2026-10-23T12:25:00.641457+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-24-53.md",
+      "topic_id": "82258241114484242",
+      "content_hash": "1de1ef181db37bef1e90f84abea69db3a818a04d2d27a6a11680cad89db3ed30",
+      "title": "亚马逊运营 亚马逊特征词分析--亚马逊官方教程 关键词 特征词分析工具-",
+      "original_url": "https://tianjikuajing.com/t/topic/53",
+      "published_at": "2026-10-23T12:25:05.079580+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-24-sif.md",
+      "topic_id": "82258241114418422",
+      "content_hash": "9d1faf7d2fa479f2075f3340469367adcbc02c67802ba8a4ba5c646921521234",
+      "title": "“流量”的底层逻辑与数据指标详解 副本sif",
+      "original_url": "https://tianjikuajing.com/t/sif/55",
+      "published_at": "2026-10-23T12:25:09.212647+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-59.md",
+      "topic_id": "45548521112218188",
+      "content_hash": "686c0de66ff2eefbdc686ead8a2622b19206d6a4af7a190f90f6ef06951e7fda",
+      "title": "亚马逊站内十大流量入口和亚马逊全部流量分析",
+      "original_url": "https://tianjikuajing.com/t/topic/59",
+      "published_at": "2026-10-23T12:25:19.334317+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-60.md",
+      "topic_id": "82258241114418122",
+      "content_hash": "aea797b9ae994f1d5f5af83ab4f12d6323af7a5f6360cd9363d2719243f69fec",
+      "title": "市场不断内卷 站内站外如何加速推新",
+      "original_url": "https://tianjikuajing.com/t/topic/60",
+      "published_at": "2026-10-23T12:25:24.726499+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-62.md",
+      "topic_id": "82258241114412552",
+      "content_hash": "082a29c531de381fb52dfebe7f090cee9ff7e7a1d8d2bb2437227fba20527261",
+      "title": "总结 -- 亚马逊高阶训练营笔记分享",
+      "original_url": "https://tianjikuajing.com/t/topic/62",
+      "published_at": "2026-10-23T12:25:29.533854+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-63.md",
+      "topic_id": "22258241114412521",
+      "content_hash": "241863a5772aa0f76f0de7f7923c69d3615dde0e200d9b74a47da1aaaf66b9a9",
+      "title": "站外冷启动打收录方式推新品分析",
+      "original_url": "https://tianjikuajing.com/t/topic/63",
+      "published_at": "2026-10-23T12:25:33.551912+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-68.md",
+      "topic_id": "82258241114412542",
+      "content_hash": "bab2c072c184772e3b1bcfc42184fcd395a9d595079078922e6a1d19ac4be3df",
+      "title": "《注册亚马逊美国站账号全过程（最新版）纯实操》",
+      "original_url": "https://tianjikuajing.com/t/topic/68",
+      "published_at": "2026-10-23T12:25:37.320128+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-a9.md",
+      "topic_id": "82258241114412852",
+      "content_hash": "afd1a570af442fee8d68468689b7356ae9572621635a14446563479d88e2d361",
+      "title": "亚马逊a9算法原理之一 产品相关性",
+      "original_url": "https://tianjikuajing.com/t/a9/61",
+      "published_at": "2026-10-23T12:25:41.457132+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-cosmo.md",
+      "topic_id": "45548521112215888",
+      "content_hash": "b26b226d8c053d22f7222e45f63a136c2cf4c353e054ccba08176c88f322d8d1",
+      "title": "亚马逊运营 如何做图，从而迎合亚马逊cosmo算法的推荐机制，解析",
+      "original_url": "https://tianjikuajing.com/t/cosmo/66",
+      "published_at": "2026-10-23T12:25:47.966578+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-frequently-returned-item.md",
+      "topic_id": "55521548884485114",
+      "content_hash": "8d1a0cf225003127ffa7df5df664cd3e37fa8fdeee83fbc4909d72a5b70a140d",
+      "title": "Frequently Returned Item处理办法分享",
+      "original_url": "https://tianjikuajing.com/t/frequently-returned-item/58",
+      "published_at": "2026-10-23T12:25:52.003291+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-it.md",
+      "topic_id": "82258241114412842",
+      "content_hash": "364dd3985adb97fffaff109102aebda27c4e6bf4e8207dac70449a43160ccbfa",
+      "title": "亚马逊运营：用it思维做亚马逊 - 由点到面打收录方式推新品",
+      "original_url": "https://tianjikuajing.com/t/it/64",
+      "published_at": "2026-10-23T12:25:55.392020+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-sop-ppt.md",
+      "topic_id": "55521548884485554",
+      "content_hash": "baeebe86054170b1ae2d3d57b2019b4e8f6efa40f91dfc9031be87592685af22",
+      "title": "亚马逊新品推广计划全链路sop思维导图 演示版PPT",
+      "original_url": "https://tianjikuajing.com/t/sop-ppt/57",
+      "published_at": "2026-10-23T12:26:10.890032+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-28-hello.md",
+      "topic_id": "82258241114412242",
+      "content_hash": "43d1d02876760992f6b33c85834a454918ed9949a265e7c2c278778ff04072be",
+      "title": "Hello!第五次发帖！亚马逊如何算利润",
+      "original_url": "https://tianjikuajing.com/t/hello/78",
+      "published_at": "2026-10-23T12:26:15.104459+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-09-01-8-12-9-1.md",
+      "topic_id": "55521548884485424",
+      "content_hash": "774393c08da142ac7c55a5429c049ecb1719d17265d272e545cd76093eb1121f",
+      "title": "亚马逊美区8月12日更新费率表三项费用调整将于9月1日正式生效",
+      "original_url": "https://tianjikuajing.com/t/8-12-9-1/88",
+      "published_at": "2026-10-23T12:26:18.405075+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-09-01-87.md",
+      "topic_id": "82258241114412442",
+      "content_hash": "59f510a04055c2a07be469e44eb880637e890a0b141b3e26ebcce9505c22d41d",
+      "title": "亚马逊运营 新品冷启动实验，可发现性测试",
+      "original_url": "https://tianjikuajing.com/t/topic/87",
+      "published_at": "2026-10-23T12:26:23.897213+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-10-16-nwd-nwd.md",
+      "topic_id": "55521548884485814",
+      "content_hash": "a4427995622598c62ce6a0173682799511e47c511dee9f8a1cc8f7c6c6317187",
+      "title": "如果遇到nwd(无批发分销)怎么办？受到了亚马逊的 nwd 限制如何处理，完整策略",
+      "original_url": "https://tianjikuajing.com/t/nwd-nwd/111",
+      "published_at": "2026-10-23T12:26:40.298613+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-10-19-contextual-landing-page.md",
+      "topic_id": "55521548884485854",
+      "content_hash": "0dfb034e46d92279285961427c913af3f6545f2f8c257932543f5e0e611eeccd",
+      "title": "亚马逊最新着陆页：Contextual Landing Page（上下文语意相关着陆页）",
+      "original_url": "https://tianjikuajing.com/t/contextual-landing-page/114",
+      "published_at": "2026-10-23T12:26:44.896949+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-selection/2026-09-02-skill.md",
+      "topic_id": "22258241114412121",
+      "content_hash": "47edb659a138d28f509d579007be608e099e1f6f17757dc7ddf6c6dc9628d860",
+      "title": "亚马逊选品，市场调研和skill",
+      "original_url": "https://tianjikuajing.com/t/skill/95",
+      "published_at": "2026-10-23T12:26:49.369932+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-selection/2026-09-18-106.md",
+      "topic_id": "45548521112212158",
+      "content_hash": "24014ad2df9c401edd8cb4a8c590ad6a3d5a6bd85ec9f5ad426a2f6daf97806f",
+      "title": "知道亚马逊类目的平均转化率，我们可以用来做什么？这个数值有什么实际价值 意义，",
+      "original_url": "https://tianjikuajing.com/t/topic/106",
+      "published_at": "2026-10-23T12:27:00.419710+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-selection/2026-09-18-107.md",
+      "topic_id": "55521548884484844",
+      "content_hash": "883d56b9a745b349d945e596c30becec4fee7e93182139d28ad49d5d080d23ab",
+      "title": "“细分市场转化率区间模型” 如何判断一个细分市场转化率",
+      "original_url": "https://tianjikuajing.com/t/topic/107",
+      "published_at": "2026-10-23T12:27:05.820569+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-selection/2026-09-18-overview-mobile-gaming-8f8e14b1.md",
+      "topic_id": "82258241114411552",
+      "content_hash": "7fcaf41e3b59734af44b5279a97121bf6f8e667f9b4698630fe693518f2a8351",
+      "title": "Overview: Mobile Gaming #8f8e14b1",
+      "original_url": "https://tianjikuajing.com/t/overview-mobile-gaming-8f8e14b1/103",
+      "published_at": "2026-10-23T12:27:08.647834+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-08-19-faq-vc-btr-asin-vc-cost.md",
+      "topic_id": "45548521112211488",
+      "content_hash": "5cf6541cbb173d095b4f9a525dc5c1d78de62c8533f3126e45f6bebf11b46ab8",
+      "title": "FAQ:我想问一下vc做了btr没在约定时间卖完，罚款了，asin是被冻结的状态滞销了一年了，现在已经陆续退回给我们了，这种情况，vc会把之前付款的cost给倒扣回去吗",
+      "original_url": "https://tianjikuajing.com/t/faq-vc-btr-asin-vc-cost/13",
+      "published_at": "2026-10-23T12:27:12.705279+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-08-19-faq-vc-funding-funding.md",
+      "topic_id": "22258241114411511",
+      "content_hash": "1a46972efa4f406fb24516f9444cef0d02bf39ed66116ac3ff4106c04b7b4261",
+      "title": "FAQ:请问大家，亚马逊VC这个funding规则是变了吗？这么高的funding怎么做哦？",
+      "original_url": "https://tianjikuajing.com/t/faq-vc-funding-funding/12",
+      "published_at": "2026-10-23T12:27:26.861315+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-08-20-faq-po.md",
+      "topic_id": "55521548884488114",
+      "content_hash": "de41bd8d94cf736a9a215abc91c4ecb234967a13c309b4de4a85558d7972aa96",
+      "title": "Faq:友友们有没有遇到过非批量订单的po里，订单价格比正常供货价低的情况啊，这种一般是啥原因导致的有知道的吗？",
+      "original_url": "https://tianjikuajing.com/t/faq-po/17",
+      "published_at": "2026-10-23T12:27:31.331193+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-08-20-faq-vc-vc-vc-po-20-vc-bd.md",
+      "topic_id": "82258241114411822",
+      "content_hash": "5d2e3c2e32be12a9b53d73e5d0d47e448cdcba139e5dcb4782a79fcb0707a523",
+      "title": "FAQ:vc问题分析，亚马逊vc高级运用技巧分享--亚马逊vc po来单20个维度分享vc bd乱价原因分析",
+      "original_url": "https://tianjikuajing.com/t/faq-vc-vc-vc-po-20-vc-bd/16",
+      "published_at": "2026-10-23T12:27:35.063492+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-08-25-vc-net-ppm.md",
+      "topic_id": "14425418881188512",
+      "content_hash": "43d6e30f1300c931b3247e30bcc15a44adc946919232e58665f47167ef856ec9",
+      "title": "今天我就来讲解一下VC的 net ppm",
+      "original_url": "https://tianjikuajing.com/t/vc-net-ppm/73",
+      "published_at": "2026-10-23T12:27:38.984105+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-08-28-bd-vc-bd.md",
+      "topic_id": "14425418881188452",
+      "content_hash": "a046a1870490d041693f1bc042cb8853a8b26102080c450b12add47d691334fe",
+      "title": "Bd提报规则，问题分析 vc bd活动提报",
+      "original_url": "https://tianjikuajing.com/t/bd-vc-bd/82",
+      "published_at": "2026-10-23T12:27:43.041465+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-08-28-vc-79.md",
+      "topic_id": "14425418881188482",
+      "content_hash": "3bf9f5db102715c5c9ed6c194f1ac5e284dba9f2db38e5c3f52fef42619b1908",
+      "title": "亚马逊vc的流程 整理集合（前期准备和注意事项）",
+      "original_url": "https://tianjikuajing.com/t/vc/79",
+      "published_at": "2026-10-23T12:27:46.716633+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-08-28-vc-msrp-vc-offer-vc.md",
+      "topic_id": "82258241114411482",
+      "content_hash": "7928e56f40373cdbfa6bfde8a8eb286bfeb204c898bea5be013a9e4cff172072",
+      "title": "亚马逊VC前台异常 问题分析，①MSRP异常分析②VC Offer丢失 异常分析③VC库存异常分析",
+      "original_url": "https://tianjikuajing.com/t/vc-msrp-vc-offer-vc/80",
+      "published_at": "2026-10-23T12:27:52.239224+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-08-28-vc.md",
+      "topic_id": "14425418881188142",
+      "content_hash": "66cccf54e6f4a12111f83ebb9e1ad9ed4105e368901e377fd67daced7e7b28f8",
+      "title": "《亚马逊vc订单异常分析与解决方案》",
+      "original_url": "https://tianjikuajing.com/t/vc/81",
+      "published_at": "2026-10-23T12:27:55.667422+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-09-01-vc.md",
+      "topic_id": "55521548884488484",
+      "content_hash": "5253ddd98ef993008fe15d7e70ceb8f5a82bf500076351d8db3275d5f3927cc2",
+      "title": "亚马逊vc运营 销量预测分析，截图",
+      "original_url": "https://tianjikuajing.com/t/vc/92",
+      "published_at": "2026-10-23T12:28:05.809992+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-10-18-vc-amazon-curated.md",
+      "topic_id": "45548521112211128",
+      "content_hash": "9f45f477e26d0c7a4b69d9a6fde2823fb1448e98c2951ea857ff20c480b942d2",
+      "title": "亚马逊VC新功能，Amazon Curated，详细讲解",
+      "original_url": "https://tianjikuajing.com/t/vc-amazon-curated/112",
+      "published_at": "2026-10-23T12:28:19.513175+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-10-21-vc-agreements.md",
+      "topic_id": "14425418881822822",
+      "content_hash": "e12cb0f556cc33971e06b74b745d809d401937b20c1ae33f2d778c8490dbcd6b",
+      "title": "亚马逊VC条款可选性分析（“Agreements” ）",
+      "original_url": "https://tianjikuajing.com/t/vc-agreements/115",
+      "published_at": "2026-10-23T12:28:23.619381+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/feedback/2026-08-18-8.md",
+      "topic_id": "45548521112144188",
+      "content_hash": "be9dde716b0bf224eb42b61004775791be5d120d47cd26a41d1a57f27605ae0d",
+      "title": "自我介绍+开办论坛的初衷，重启论坛和博客",
+      "original_url": "https://tianjikuajing.com/t/topic/8",
+      "published_at": "2026-10-23T12:28:26.725948+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/general/2026-08-18-5.md",
+      "topic_id": "55521548884822844",
+      "content_hash": "26204626a54075f7896a6280cdf2e5a59857193e5bd8e3c6b997d1b54c2e1804",
+      "title": "欢迎来到 天机跨境论坛！:wave:",
+      "original_url": "https://tianjikuajing.com/t/topic/5",
+      "published_at": "2026-10-23T12:28:30.117463+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/general/2026-08-23-50.md",
+      "topic_id": "55521548884822884",
+      "content_hash": "e08677fad571749f4d45bcdf1b475f3f087205cf3a2b836b4ab47384c75609c4",
+      "title": "亚马逊广告的一种精品的打法，思路分析②",
+      "original_url": "https://tianjikuajing.com/t/topic/50",
+      "published_at": "2026-10-23T12:28:35.223672+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/general/2026-08-31-amazon-asin-skill.md",
+      "topic_id": "82258241114158512",
+      "content_hash": "9da581400466bb52184c39a12ebd7017f41a380c2de3d96478c12ced19040f08",
+      "title": "Amazon ASIN 竞品推广节奏分析 SKILL",
+      "original_url": "https://tianjikuajing.com/t/amazon-asin-skill/85",
+      "published_at": "2026-10-23T12:28:49.139700+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/general/2026-09-01-scenario-modeling.md",
+      "topic_id": "82258241114158852",
+      "content_hash": "2290126a04ff037b850b3182fc001a3b068e2af4455f504d63d19abf3c831f08",
+      "title": "创建新场景Scenario Modeling：亚马逊正在把运营决策变成“可计算的实验”",
+      "original_url": "https://tianjikuajing.com/t/scenario-modeling/89",
+      "published_at": "2026-10-23T12:28:52.442418+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/general/2026-09-18-105.md",
+      "topic_id": "55521548884821154",
+      "content_hash": "dbf5f2c3201ce00932b19e35e7e841a2bb329008384eef416f07ab340506f490",
+      "title": "亚马逊特征词分析（广告词根及属性数据分析 ）",
+      "original_url": "https://tianjikuajing.com/t/topic/105",
+      "published_at": "2026-10-23T12:28:56.477435+08:00",
+      "truncated": false,
+      "group_id": "51115818158554"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-23-46.md",
+      "topic_id": "55521548884825854",
+      "content_hash": "d5204f55d49a3326fbc9b5e34e4217e2a645b30b4895ab0365ae828bcd94dfc3",
+      "title": "亚马逊广告打法策略全面解析",
+      "original_url": "https://tianjikuajing.com/t/topic/46",
+      "published_at": "2026-10-23T12:30:01.660797+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-23-49.md",
+      "topic_id": "45548521112142548",
+      "content_hash": "1451432ca77e231cb05536839ebb7a29bb0dda0447b68da590d90fa083e4fe08",
+      "title": "亚马逊广告的一种精品的打法，思路分析①",
+      "original_url": "https://tianjikuajing.com/t/topic/49",
+      "published_at": "2026-10-23T12:30:20.889723+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-08-24-52.md",
+      "topic_id": "55521548884824424",
+      "content_hash": "019302bb42b4c4d8a448926c5bb954bfcf13aba90f3a56e5d7ef764fc7a36ec2",
+      "title": "亚马逊广告知识转化归因以及浏览归因和点击归因（官方解释）",
+      "original_url": "https://tianjikuajing.com/t/topic/52",
+      "published_at": "2026-10-23T12:30:25.740433+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-09-04-96.md",
+      "topic_id": "82258241114154412",
+      "content_hash": "b567c9741f2d0637e39912efb4b9c15e334513521c99b517af58316505b56e50",
+      "title": "回答粉丝的问题，以及一些延申的思考",
+      "original_url": "https://tianjikuajing.com/t/topic/96",
+      "published_at": "2026-10-23T12:30:29.736032+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-ads/2026-09-16-ai-targeting-with-ai.md",
+      "topic_id": "45548521112142158",
+      "content_hash": "6d72348602bbabc2799f289aefe5856219d281520ca99418c80d0d33e844525a",
+      "title": "亚马逊广告策略AI新功能 -Targeting with AI",
+      "original_url": "https://tianjikuajing.com/t/ai-targeting-with-ai/101",
+      "published_at": "2026-10-23T12:30:36.570584+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-20-a9.md",
+      "topic_id": "82258241114154142",
+      "content_hash": "8eae96c5f1bcc3b595658e9b9db4e53140846d12d1d0ceafd73d62c87667b6c8",
+      "title": "第一章 亚马逊a9算法全解析-·- 亚马逊高阶训练营笔记分享",
+      "original_url": "https://tianjikuajing.com/t/a9/26",
+      "published_at": "2026-10-23T12:30:40.689747+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-23-cdq-v3.md",
+      "topic_id": "82258241114151552",
+      "content_hash": "fba07256d26fcd0669774a57a6338c39f08635c58f066def94321c7b217fd337",
+      "title": "亚马逊官方cdq v3政策解析",
+      "original_url": "https://tianjikuajing.com/t/cdq-v3/44",
+      "published_at": "2026-10-23T12:30:45.167129+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-24-sop.md",
+      "topic_id": "82258241114151582",
+      "content_hash": "e99072eb5bcc8201245bebf1e3ff5c183fd6b3670fe08f62e3c79530d7d26989",
+      "title": "亚马逊新品推广计划全链路 sop",
+      "original_url": "https://tianjikuajing.com/t/sop/54",
+      "published_at": "2026-10-23T12:30:50.333585+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-08-25-sop-docx-fx.md",
+      "topic_id": "45548521112141128",
+      "content_hash": "f8e16c818a3ff0c9b91937da458ea5cbb929cc893357d2cd5eda227ef1fe70d7",
+      "title": "亚马逊产品定位_SOP.docx FX",
+      "original_url": "https://tianjikuajing.com/t/sop-docx-fx/65",
+      "published_at": "2026-10-23T12:30:54.418723+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-09-01-90.md",
+      "topic_id": "45548521112184858",
+      "content_hash": "fd74e842c29946aad03df3bff1781e5727e1784db59d507899170016e51b6602",
+      "title": "答 会员 评论获取方式（有风险请知悉，自行评估）不断更新",
+      "original_url": "https://tianjikuajing.com/t/topic/90",
+      "published_at": "2026-10-23T12:31:10.419006+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-sc/2026-09-02-93.md",
+      "topic_id": "82258241114185252",
+      "content_hash": "93af6df58a92a582b145bb71a6e91e07347833a9f3bdd6f36c4604d1bd43a69c",
+      "title": "历史最全的亚马逊差评移除方法：合规移除亚马逊差评的底层逻辑与全流程指南",
+      "original_url": "https://tianjikuajing.com/t/topic/93",
+      "published_at": "2026-10-23T12:31:16.728294+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-selection/2026-09-05-skill-m1-m11.md",
+      "topic_id": "45548521112184588",
+      "content_hash": "5d737e713b7f9c03bbf7ebdd091ff2448647e531025fc7e18d39cc9d130aff32",
+      "title": "亚马逊精细化选品决策skill设计思路（M1–M11 证据驱动漏斗）",
+      "original_url": "https://tianjikuajing.com/t/skill-m1-m11/97",
+      "published_at": "2026-10-23T12:31:20.474655+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-08-19-faq-vc-cm.md",
+      "topic_id": "45548521112184528",
+      "content_hash": "e0635da9aa0b5062a5575c0fc85adba6141e714978d19faf402aec856908cb29",
+      "title": "FAQ:请教一下各位大佬，知不知道欧洲vc的cm值是怎么计算的？有没有公式可以参考的呢？",
+      "original_url": "https://tianjikuajing.com/t/faq-vc-cm/14",
+      "published_at": "2026-10-23T12:31:23.544261+08:00",
+      "truncated": false,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-09-01-vc-vm-cm-ppm.md",
+      "topic_id": "55521548884812584",
+      "content_hash": "a880cc16226f891b24ce3ca2f3577c13eb2c9dd94be4e881f9683061a6f59818",
+      "title": "亚马逊vc账号 vm经理资源 字段含义 价值(亚马逊视角下的盈利能力（如 cm、ppm）以及供应链成本上。)",
+      "original_url": "https://tianjikuajing.com/t/vc-vm-cm-ppm/91",
+      "published_at": "2026-10-23T12:31:28.325274+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-10-15-asin-asin.md",
+      "topic_id": "82258241114185422",
+      "content_hash": "fe269ff531cc78136b2ebb7dc55eca9dd02172cf94e6b6be0d925935d2493732",
+      "title": "回答卖家问题： 各位大佬， 我们最近很多销量和价格稳定的asin在会员日后前台零售价突然提高很多是啥问题呀（这些asin以往价格都很稳定） 核心原因分析",
+      "original_url": "https://tianjikuajing.com/t/asin-asin/109",
+      "published_at": "2026-10-23T12:31:32.254675+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/amazon-vc/2026-10-18-amazon-curated-147-add-or-change-metrics-and-dimensions.md",
+      "topic_id": "55521548884812484",
+      "content_hash": "6b0ace1ef479534e04bff3bccc4159942a5a02ba7f294bb07caa0139990fc2cd",
+      "title": "亚马逊新功能Amazon Curated里面147指标 Add or change metrics and dimensions",
+      "original_url": "https://tianjikuajing.com/t/amazon-curated-147-add-or-change-metrics-and-dimensions/113",
+      "published_at": "2026-10-23T12:31:36.032210+08:00",
+      "truncated": true,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip_and_cap"
+    },
+    {
+      "blog_path": "blog/general/2026-08-25-vine-vine.md",
+      "topic_id": "14425418881852882",
+      "content_hash": "6a74ca719c40481d015d9e3ddd723d7f9977d3cafed4761bbc5b7d9b4ced190f",
+      "title": "Vine计划的产品如何快速进入公推状态（建议）&分享三个亚马逊VINE玩法",
+      "original_url": "https://tianjikuajing.com/t/vine-vine/72",
+      "published_at": "2026-10-23T12:31:51.290280+08:00",
+      "truncated": false,
+      "group_id": "51115818158554",
+      "note": "published_with_image_strip"
+    }
+  ],
+  "notes": "天机跨境 group_id=51115818158554 export complete 2026-10-23T04:17:29Z; topics=62; blog_to_planet sync 2026-10-23T12:28:57.978409+08:00 created=57 skipped=1 failed=17; blog retry 2026-10-23T12:31:53.091804+08:00 new=17 fail=0",
   "groups": {
     "51115818158554": {
       "name": "天机跨境",
