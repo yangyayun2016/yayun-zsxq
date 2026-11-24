@@ -1267,10 +1267,10 @@
       "type": "talk",
       "created_at": "2026-06-09T12:04:04.723+0800",
       "path": "topics/tianji-kuajing/2026-06/55522518224484424.md",
-      "content_hash": "afc6a45c2247cd1d060b5e61d3cf02b97a7efcff019f927bddf66b7af550cf65",
+      "content_hash": "ab581fb52fd7940f4946980ceba1231b15c826928375765aad5a19137c01d20b",
       "original_url": "https://wx.zsxq.com/dweb2/index/topic_detail/55522518224484424",
       "owner_user_id": "51181854554114",
-      "synced_at": "2026-10-23T04:17:29Z"
+      "synced_at": "2026-11-24T03:33:00Z"
     },
     {
       "topic_id": "14422458221185122",
@@ -1555,10 +1555,10 @@
       "type": "talk",
       "created_at": "2026-05-12T17:05:01.254+0800",
       "path": "topics/tianji-kuajing/2026-05/55522141521158824.md",
-      "content_hash": "662abf7ffd8cfdb10648abcf8c18b2e1a3d08a7b9745a7a0faf8d9e6f700a160",
+      "content_hash": "9da81dca72fb7eaf90851be0d8fd8c833c0b686dc73858f6dcb32bab0a8fbfdb",
       "original_url": "https://wx.zsxq.com/dweb2/index/topic_detail/55522141521158824",
       "owner_user_id": "51181854554114",
-      "synced_at": "2026-10-23T04:17:29Z"
+      "synced_at": "2026-11-24T03:33:01Z"
     },
     {
       "topic_id": "45544828822481448",
@@ -1663,10 +1663,10 @@
       "type": "talk",
       "created_at": "2026-05-10T23:19:17.552+0800",
       "path": "topics/tianji-kuajing/2026-05/55522142518242824.md",
-      "content_hash": "f98b2628b0d1973511167f7ffe7262067067d424a83d8ee8c15df9289942e6e6",
+      "content_hash": "85e7f9bc09f8daab08ff23aa5c5ccb07abdf95366beb6a20ea3d371e97bab825",
       "original_url": "https://wx.zsxq.com/dweb2/index/topic_detail/55522142518242824",
       "owner_user_id": "51181854554114",
-      "synced_at": "2026-10-23T04:17:29Z"
+      "synced_at": "2026-11-24T03:33:03Z"
     },
     {
       "topic_id": "22255845284411411",
@@ -1675,10 +1675,10 @@
       "type": "talk",
       "created_at": "2026-05-10T23:05:57.096+0800",
       "path": "topics/tianji-kuajing/2026-05/22255845284411411.md",
-      "content_hash": "90c9e73fbaa45a865d52e4c2f8226b23281661f9a5c597ecbc33fe3e687ec456",
+      "content_hash": "6eaa9d3516377f0961520c806c813dbe4be37664e158d5368d075172aaed48ec",
       "original_url": "https://wx.zsxq.com/dweb2/index/topic_detail/22255845284411411",
       "owner_user_id": "51181854554114",
-      "synced_at": "2026-10-23T04:17:29Z"
+      "synced_at": "2026-11-24T03:33:05Z"
     },
     {
       "topic_id": "45544851122842288",
@@ -1699,10 +1699,10 @@
       "type": "talk",
       "created_at": "2026-03-18T08:34:07.671+0800",
       "path": "topics/tianji-kuajing/2026-03/55188415111121544.md",
-      "content_hash": "9ce0a2713ae29ef3b6b015488be477acaea7cb2138dfabaaabdf38204a7048a1",
+      "content_hash": "0275e1e7db8567a2ec56392617d93b7e221405c22389db023fa92acd30f4036d",
       "original_url": "https://wx.zsxq.com/dweb2/index/topic_detail/55188415111121544",
       "owner_user_id": "51181854554114",
-      "synced_at": "2026-10-23T04:17:29Z"
+      "synced_at": "2026-11-24T03:33:06Z"
     },
     {
       "topic_id": "82811485212142412",
@@ -1711,10 +1711,10 @@
       "type": "talk",
       "created_at": "2026-03-12T22:37:00.182+0800",
       "path": "topics/tianji-kuajing/2026-03/82811485212142412.md",
-      "content_hash": "4954f26f564310f9c683e521a40422b64f2554a94f421882b8f9d9f6f4020744",
+      "content_hash": "04ff3c8b6d3cf76fd32495330da9fdd57bbcab2be64ace48026e5c8223826ad4",
       "original_url": "https://wx.zsxq.com/dweb2/index/topic_detail/82811485212142412",
       "owner_user_id": "51181854554114",
-      "synced_at": "2026-10-23T04:17:29Z"
+      "synced_at": "2026-11-24T03:33:09Z"
     }
   ],
   "blog_to_planet": [
@@ -2486,13 +2486,13 @@
       "note": "published_with_image_strip"
     }
   ],
-  "notes": "天机跨境 group_id=51115818158554 export complete 2026-10-23T04:17:29Z; topics=62; blog_to_planet sync 2026-10-23T12:28:57.978409+08:00 created=57 skipped=1 failed=17; blog retry 2026-10-23T12:31:53.091804+08:00 new=17 fail=0 | incremental 2026-10-23T09:10:45Z: +81 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143",
+  "notes": "天机跨境 group_id=51115818158554 export complete 2026-10-23T04:17:29Z; topics=62; blog_to_planet sync 2026-10-23T12:28:57.978409+08:00 created=57 skipped=1 failed=17; blog retry 2026-10-23T12:31:53.091804+08:00 new=17 fail=0 | incremental 2026-10-23T09:10:45Z: +81 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-10-26T09:06:37Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-10-27T09:05:10Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-10-28T09:01:06Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-10-29T09:03:27Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-10-30T03:03:45Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-03T02:57:06Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-06T02:12:11Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-06T02:59:47Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-10T02:16:15Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-10T03:04:31Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-13T02:27:42Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-13T03:01:50Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-16T09:44:46Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-17T02:31:40Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-17T03:19:02Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-20T02:32:33Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-20T03:18:06Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-24T02:28:17Z: +0 new, updated=0, skipped_mapped=15, failures=0; topic_count now 143 | incremental 2026-11-24T03:33:09Z: +0 new, updated=6, skipped_mapped=137, failures=0; topic_count now 143",
   "groups": {
     "51115818158554": {
       "name": "天机跨境",
       "slug": "tianji-kuajing",
       "topic_count": 143,
-      "last_export": "2026-10-23T09:10:45Z"
+      "last_export": "2026-11-24T03:33:09Z"
     }
   }
 }
